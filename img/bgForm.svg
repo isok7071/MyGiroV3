@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="784.69" viewBox="0 0 1920 784.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        fill: url(#linear-gradient);
+        filter: url(#filter);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="991.749" y1="5158.19" x2="991.749" y2="4373.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d85b71"/>
+      <stop offset="1" stop-color="#4e51b7"/>
+    </linearGradient>
+    <filter id="filter" x="-99.563" y="4373.5" width="2182.622" height="784.69" filterUnits="userSpaceOnUse">
+      <feImage preserveAspectRatio="none" x="-99.5625" y="4373.5" width="2182.622" height="784.69" result="image" xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjE4Mi42MjIiIGhlaWdodD0iNzg0LjY5IiB2aWV3Qm94PSIwIDAgMjE4Mi42MjIgNzg0LjY5Ij4KICA8ZGVmcz4KICAgIDxzdHlsZT4KICAgICAgLmNscy0xIHsKICAgICAgICBmaWxsOiB1cmwoI2xpbmVhci1ncmFkaWVudCk7CiAgICAgIH0KICAgIDwvc3R5bGU+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImxpbmVhci1ncmFkaWVudCIgeTE9IjM5Mi4zNDUiIHgyPSIyMTgyLjYyMiIgeTI9IjM5Mi4zNDUiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSItMC4yNSIgc3RvcC1jb2xvcj0iI2Q4NWI3MSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEuMjUiIHN0b3AtY29sb3I9IiM0ZTUxYjciLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IGNsYXNzPSJjbHMtMSIgd2lkdGg9IjIxODIuNjIyIiBoZWlnaHQ9Ijc4NC42OSIvPgo8L3N2Zz4K"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Прямоугольник_3" data-name="Прямоугольник 3" class="cls-1" d="M-47.085,4373.49L2083.06,4560.5l-52.47,597.7L-99.558,4971.19Z" transform="translate(0 -4373.5)"/>
+</svg>
